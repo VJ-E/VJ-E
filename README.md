@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there, I'm Vijay E<br>🎓 I'm a 3rd-year B.E. CSE (AI & ML) student at KIT - Kalaignar Karunanidhi Institute of Technology<br>💻 Passionate about Machine Learning, Full Stack Development, and Competitive Programming<br>🚀 Currently building projects with Next js, MongoDB, React, and Python ML libraries<br>🛠️ Tech I enjoy working with:<br><br>Languages: Python, C++, C<br><br>Tools & Frameworks: Next js , GitHub<br><br>ML: TensorFlow<br><br>📈 600+ problems solved | 60+ contests | 1650+ LeetCode Rating<br>🌱 Currently learning Full-Stack and Machine Learning<br>📬 Let's connect! Reach me on LinkedIn or check out my Portfolio
+👋 Hi there, I'm Vijay E<br>🎓 I'm a 3rd-year B.E. CSE (AI & ML) student at KIT - Kalaignar Karunanidhi Institute of Technology<br>💻 Passionate about Machine Learning, Full Stack Development, and Competitive Programming<br>🚀 Currently building projects with Next js, MongoDB, React, and Python ML libraries<br>🛠️ Tech I enjoy working with:<br><br>Languages: Python, C++, C<br><br>Tools & Frameworks: Next js , GitHub<br><br>ML: LLM, TensorFlow<br><br>📈 600+ problems solved | 60+ contests | 1650+ LeetCode Rating<br>🌱 Currently learning Full-Stack and Machine Learning<br>📬 Let's connect! Reach me on LinkedIn or check out my Portfolio
 
 
 ## 🌐 Socials:
