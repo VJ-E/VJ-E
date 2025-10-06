@@ -138,9 +138,6 @@ Curious by nature — I love exploring how things work, breaking them, and rebui
 </p>
 <br>
 
-***Codolio Profile***
-
-![Alt Text](profileCard.png)
 
 <br>
 
