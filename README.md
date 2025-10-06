@@ -137,7 +137,9 @@ Curious by nature — I love exploring how things work, breaking them, and rebui
 </table>
 </p>
 <br>
+
 ***Contribution Graph***
+
 <br>
 
 <p align="center">
