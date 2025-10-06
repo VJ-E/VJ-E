@@ -162,3 +162,26 @@ Curious by nature — I love exploring how things work, breaking them, and rebui
 
 <br><br>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+---
+
+### Let's Connect & Collaborate
+
+I'm always excited to discuss new ideas, collaborate on interesting projects, or simply have a conversation about technology and innovation. Feel free to reach out through any of these channels:
+
+<div align="center">
+  <a href="mailto:vijay.vijay.e@gmail.com"><img src="https://img.shields.io/badge/Email-Me%20Personally-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vijay-e"><img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://vj-e.github.io/Portfolio-Website/"><img src="https://img.shields.io/badge/Portfolio-See%20My%20Work-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://codolio.com/profile/Vijay"><img src="https://img.shields.io/badge/Codolio-View%20My%20Profile-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
+
+---
+
+<p align="center">
+  <i>Thanks for visiting my profile! Remember - every expert was once a beginner who never gave up.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=120&section=footer&fontColor=ffffff" alt="Footer Banner" />
+</p>
