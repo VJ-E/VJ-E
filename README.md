@@ -137,7 +137,22 @@ Curious by nature — I love exploring how things work, breaking them, and rebui
 </table>
 </p>
 <br>
+***Contribution Graph***
+<br>
 
+<p align="center">
+<picture>
+  <source
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=VJ-E&theme=tokyo-night&area=true&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=VJ-E&theme=minimal&area=true&hide_border=true"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VJ-E&theme=minimal&area=true&hide_border=true" />
+</picture>
+</p>
 <br>
 
 <br><br>
