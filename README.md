@@ -226,13 +226,11 @@ Feel free to connect with me on any of the platforms below!
 </p>
 <br>
 
-<p align="center">
 <picture>
-  <source srcset="https://spsmarteee.github.io/github-contribution-grid-snake/github-contribution-grid-snake-dark.svg?user=VJ-E" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://spsmarteee.github.io/github-contribution-grid-snake/github-contribution-grid-snake.svg?user=VJ-E" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://spsmarteee.github.io/github-contribution-grid-snake/github-contribution-grid-snake.svg?user=VJ-E" alt="Vijay's GitHub Contribution Snake" />
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
 </picture>
-</p>
 
 
 <!-- Profile Trophies -->
