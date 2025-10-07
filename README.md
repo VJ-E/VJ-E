@@ -228,9 +228,9 @@ Feel free to connect with me on any of the platforms below!
 
 <p align="center">
 <picture>
-  <source srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <source srcset="https://spsmarteee.github.io/github-contribution-grid-snake/github-contribution-grid-snake-dark.svg?user=VJ-E" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://spsmarteee.github.io/github-contribution-grid-snake/github-contribution-grid-snake.svg?user=VJ-E" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://spsmarteee.github.io/github-contribution-grid-snake/github-contribution-grid-snake.svg?user=VJ-E" alt="Vijay's GitHub Contribution Snake" />
 </picture>
 </p>
 
