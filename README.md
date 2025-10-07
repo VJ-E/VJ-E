@@ -7,37 +7,31 @@
 </p>
 
 ---
-
-
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
-I’m **Vijay**, a passionate **Computer Science** student and self-taught developer focused on **Full-stack web development**
-Curious by nature — I love exploring how things work, breaking them, and rebuilding them better   
+<p>
+  Hello there! I'm Vijay, a <b>Computer Science</b> student specializing in <b>AI & ML</b> with a deep fascination for the entire development lifecycle, from architecting scalable back-end systems to creating intuitive, user-centric front-end experiences.
+  <br><br>
+  My journey into technology is fueled by a simple principle: to understand not just <i>how</i> to build something, but <i>why</i> it works the way it does. I thrive on deconstructing complex problems, exploring the underlying mechanics, and then rebuilding them into something more efficient and elegant. This curiosity has led me from mastering <b>f=Full stack development</b> to exploring the frontiers of <b>AI and machine learning</b>.
+</p>
+<p align="center"> 
+Feel free to connect with me on any of the platforms below!
+</p>
 
-- Working with **Next.js**, **MongoDB** to build end-to-end apps
-
-- Currently learning **Deep Learning**, **NLP**, and **AI-driven systems**
-
-- Exploring AI integration and automation tools
-- Love solving complex problems and learning by doing
-- Reach me anytime at: <a href="mailto:kit27.am57@gmail.com@gmail.com">kit27.am57@gmail.com@gmail.com</a>
-
-<br>
-
-<!-- Profile Trophies -->
-<div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=VJ-E&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
-    </a>
-</div>     
-
-<!-- Social Links -->
-<div align="center">
-  <a href="mailto:vijay.vijay.e@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
-  <a href="https://www.linkedin.com/in/vijay-e"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
-  <a href="https://vj-e.github.io/Portfolio-Website/"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=vercel&logoColor=white&color=black" /></a>
-  <a href="https://codolio.com/profile/Vijay"><img src="https://img.shields.io/badge/Codolio-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" /></a>
-</div>
+<p align="center">
+  <a href="mailto:kit27.am57@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vijay-e" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://vj-e.github.io/Portfolio-Website/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://codolio.com/profile/Vijay" target="_blank">
+    <img src="https://img.shields.io/badge/Codolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Codolio"/>
+  </a>
+</p>
 
 <br>
 
@@ -104,6 +98,54 @@ Curious by nature — I love exploring how things work, breaking them, and rebui
     </td>
   </tr>
 </table>
+<br>
+<div id="user-content-toc" align="center">
+  <h3 align="center">Featured Projects</h3>
+</div>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="100%" valign="top">
+      <h4>Expense Tracker — Java & MySQL</h4>
+      <p>A comprehensive desktop application designed to manage personal finances. Building on my foundational Java skills, this project was a deep dive into creating a multi-faceted GUI with Java Swing and managing relational data with a robust MySQL backend. The focus was on creating a practical tool that handles data categorization, tracking, and filtering in a user-friendly way.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+        <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
+        <img src="https://img.shields.io/badge/Java%20Swing-596D78?style=for-the-badge&logo=java&logoColor=white" alt="Java Swing"/>
+      </p>
+    </td>
+  </tr>
+<tr>
+    <td width="100%" valign="top">
+      <h4>Alumni Connection Platform — Full-Stack Web App</h4>
+      <p>A dynamic web application designed to connect university alumni, facilitating networking, mentorship, and community engagement. This project was a deep dive into building a modern, full-stack, and real-time application with Next.js and TypeScript. It features a robust backend powered by Next.js API routes, real-time messaging with Socket.IO, and secure, streamlined authentication handled by Clerk. The interface was built with Tailwind CSS for rapid, responsive design, while all data is managed in a flexible NoSQL database with MongoDB. The entire platform is also a Progressive Web App (PWA), ensuring a seamless and installable user experience.</p>
+      <p>
+        <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/></a>
+        <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
+        <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
+        <a href="https://socket.io/" target="_blank"><img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO"/></a>
+        <a href="https://clerk.com/" target="_blank"><img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk"/></a>
+        <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/></a>
+        <a href="https://web.dev/progressive-web-apps/" target="_blank"><img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA"/></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
+      <h4>E-commerce Platform — Spring Boot & Spring Security (In Progress)</h4>
+      <p>My current focus is on building a scalable and secure E-commerce platform using modern, enterprise-level technologies. This project represents a significant step up in complexity, tackling the challenges of building robust back-end services, RESTful APIs, and implementing critical security features like role-based authentication and authorization with the Spring ecosystem.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+        <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+        <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
 <br>
 
 <!-- Github Stats -->
@@ -184,6 +226,21 @@ Curious by nature — I love exploring how things work, breaking them, and rebui
 </p>
 <br>
 
+<p align="center">
+<picture>
+  <source srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</picture>
+</p>
+
+
+<!-- Profile Trophies -->
+<div align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=VJ-E&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
+    </a>
+</div>     
 <br><br>
 
 ---
