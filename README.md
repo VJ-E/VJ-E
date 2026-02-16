@@ -1,18 +1,27 @@
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=180&section=header&text=VIJAY%20E&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=VIJAY%20E&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00000&center=true&vCenter=true&width=800&lines=Passionate+about+Building+and+Learning;Full+Stack+Dev+%7C+AI%2FML+Explorer+%7C+DSA+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00000&center=true&vCenter=true&width=800&lines=Algorithmic%20precision.%20Full%20Stack%20execution.;Full%20Stack%20Dev%20%7C%20AI/ML%20Explorer%20%7C%20DSA%20Learner" alt="Typing SVG" />
+</p>
+
+
+<p align="center">
+  <a href="https://portfolio-indol-sigma-76.vercel.app">
+    <img src="https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="View Portfolio" />
+  </a>
 </p>
 
 ---
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
 <p>
-  Hello there! I'm Vijay, a <b>Computer Science</b> student specializing in <b>AI & ML</b> with a deep fascination for the entire development lifecycle, from architecting scalable back-end systems to creating intuitive, user-centric front-end experiences.
-  <br><br>
-  My journey into technology is fueled by a simple principle: to understand not just <i>how</i> to build something, but <i>why</i> it works the way it does. I thrive on deconstructing complex problems, exploring the underlying mechanics, and then rebuilding them into something more efficient and elegant. This curiosity has led me from mastering <b>f=Full stack development</b> to exploring the frontiers of <b>AI and machine learning</b>.
+I am a B.E. Computer Science student with a dual focus: mastering competitive programming (1935 LeetCode rating) and building scalable full-stack applications.<br><br>
+I specialize in the MERN stack (MongoDB, Express, React, Node.js) and Java, leveraging algorithmic expertise to write efficient, production-ready code.<br><br>
+My projects range from complex networking simulations to full-stack alumni platforms, demonstrating my ability to handle both low-level system design and high-level user experience.<br><br>
+I am actively seeking internships where I can apply my competitive edge in problem-solving to deliver high-impact software solutions.
 </p>
 <p align="center"> 
 Feel free to connect with me on any of the platforms below!
@@ -22,7 +31,7 @@ Feel free to connect with me on any of the platforms below!
   <a href="mailto:kit27.am57@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/vijay-e" target="_blank">
+  <a href="https://www.linkedin.com/in/vj-e/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://vj-e.github.io/Portfolio-Website/" target="_blank">
@@ -44,58 +53,51 @@ Feel free to connect with me on any of the platforms below!
       <strong>Languages</strong>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript"/>
-      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-    </td>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+</td>
   </tr>
   <tr>
     <td align="center">
       <strong>Frontend</strong>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-      <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-    </td>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+</td>
   </tr>
   <tr>
     <td align="center">
       <strong>Backend & Databases</strong>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
-      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-      <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-    </td>
+<img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO"/>
+<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary"/>
+</td>
   </tr>
   <tr>
     <td align="center">
       <strong>AI / ML</strong>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-      <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-      <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-      <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch"/>
-      <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow"/>
-    </td>
+<img src="https://img.shields.io/badge/Prompt_Engineering-000000?style=for-the-badge" alt="Prompt Engineering"/>
+</td>
   </tr>
   <tr>
     <td align="center">
       <strong>Tools & Platforms</strong>
     </td>
     <td>
-      <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-      <img src="https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-      <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux"/>
-    </td>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</td>
   </tr>
 </table>
 <br>
@@ -106,41 +108,63 @@ Feel free to connect with me on any of the platforms below!
 <table align="center" width="100%">
   <tr>
     <td width="100%" valign="top">
-      <h4>Expense Tracker — Java & MySQL</h4>
-      <p>A comprehensive desktop application designed to manage personal finances. Building on my foundational Java skills, this project was a deep dive into creating a multi-faceted GUI with Java Swing and managing relational data with a robust MySQL backend. The focus was on creating a practical tool that handles data categorization, tracking, and filtering in a user-friendly way.</p>
+      <h4>Alumni Connection Platform</h4>
+      <p>A web application to connect alumni and students, enabling networking, real-time messaging, event sharing, and professional growth. Built with Next.js, Clerk authentication, MongoDB Atlas, and Socket.IO for real-time communication.</p>
       <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-        <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
-        <img src="https://img.shields.io/badge/Java%20Swing-596D78?style=for-the-badge&logo=java&logoColor=white" alt="Java Swing"/>
-      </p>
-    </td>
-  </tr>
-<tr>
-    <td width="100%" valign="top">
-      <h4>Alumni Connection Platform — Full-Stack Web App</h4>
-      <p>A dynamic web application designed to connect university alumni, facilitating networking, mentorship, and community engagement. This project was a deep dive into building a modern, full-stack, and real-time application with Next.js and TypeScript. It features a robust backend powered by Next.js API routes, real-time messaging with Socket.IO, and secure, streamlined authentication handled by Clerk. The interface was built with Tailwind CSS for rapid, responsive design, while all data is managed in a flexible NoSQL database with MongoDB. The entire platform is also a Progressive Web App (PWA), ensuring a seamless and installable user experience.</p>
-      <p>
-        <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/></a>
-        <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
-        <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
-        <a href="https://socket.io/" target="_blank"><img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO"/></a>
-        <a href="https://clerk.com/" target="_blank"><img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk"/></a>
-        <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/></a>
-        <a href="https://web.dev/progressive-web-apps/" target="_blank"><img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA"/></a>
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO"/>
+<img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk"/>
+<img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA"/>
       </p>
     </td>
   </tr>
   <tr>
     <td width="100%" valign="top">
-      <h4>E-commerce Platform — Spring Boot & Spring Security (In Progress)</h4>
-      <p>My current focus is on building a scalable and secure E-commerce platform using modern, enterprise-level technologies. This project represents a significant step up in complexity, tackling the challenges of building robust back-end services, RESTful APIs, and implementing critical security features like role-based authentication and authorization with the Spring ecosystem.</p>
+      <h4>Expense Tracker</h4>
+      <p>Expense Tracker application built with Java Swing and MySQL with a multi-faceted GUI. This application helps users manage their expenses by category, track spending patterns, and maintain financial records.</p>
       <p>
-        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-        <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-        <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf"/>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Java%20Swing-596D78?style=for-the-badge&logo=java&logoColor=white" alt="Swing"/>
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
+      <h4>Lost and Found Management System</h4>
+      <p>A web application for efficiently managing lost and found items on campus. Streamlines the process by allowing users to report lost/found items, search for belongings, and manage claims.</p>
+      <p>
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/NextAuth.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="NextAuth.js"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
+      <h4>Portfolio Website</h4>
+      <p>Portfolio website for showcasing projects, skills, and experience. Built with Next.js, TypeScript, Tailwind CSS, and Framer Motion.</p>
+      <p>
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
+      <h4>ToDo Application</h4>
+      <p>A Java-based Todo application with a graphical user interface that helps you manage your tasks efficiently.</p>
+      <p>
+<img src="https://img.shields.io/badge/Java%20Swing-596D78?style=for-the-badge&logo=java&logoColor=white" alt="Java Swing"/>
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
       </p>
     </td>
   </tr>
@@ -160,14 +184,14 @@ Feel free to connect with me on any of the platforms below!
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=VJ-E&theme=nightowl&show_icons=true&count_private=true"
+    srcset="https://github-readme-stats-fast.vercel.app/api?username=VJ-E&theme=nightowl&show_icons=true&count_private=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=VJ-E&theme=default&show_icons=true&count_private=true"
+    srcset="https://github-readme-stats-fast.vercel.app/api?username=VJ-E&theme=default&show_icons=true&count_private=true"
     media="(prefers-color-scheme: light)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=VJ-E&theme=default&show_icons=true&count_private=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=VJ-E&theme=default&show_icons=true&count_private=true" />
 </picture>
 
 <picture>
@@ -188,14 +212,14 @@ Feel free to connect with me on any of the platforms below!
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VJ-E&theme=nightowl&hide_border=false&langs_count=10"
+    srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VJ-E&theme=nightowl&hide_border=false&langs_count=10"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VJ-E&theme=default&hide_border=false&langs_count=10"
+    srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VJ-E&theme=default&hide_border=false&langs_count=10"
     media="(prefers-color-scheme: light)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VJ-E&theme=default&hide_border=false&langs_count=10" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VJ-E&theme=default&hide_border=false&langs_count=10" />
 </picture>
 
 </td>
@@ -226,13 +250,20 @@ Feel free to connect with me on any of the platforms below!
 </p>
 <br>
 
+## Competitive Programming Stats
 
-<!-- Profile Trophies -->
-<div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=VJ-E&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
-    </a>
-</div>     
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/VIJAY_E?theme=dark&font=JetBrains%20Mono&ext=activity&border=0" width="48%" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=VJ_E&theme=dark" width="48%" />
+</p>
+
+
+### Profiles
+- **LeetCode**: https://leetcode.com/u/VIJAY_E/
+- **Codeforces**: https://codeforces.com/profile/VJ_E
+- **CodeChef**: https://www.codechef.com/users/kit23bam057
+
+
 <br><br>
 
 ---
@@ -243,7 +274,7 @@ I'm always excited to discuss new ideas, collaborate on interesting projects, or
 
 <div align="center">
   <a href="mailto:vijay.vijay.e@gmail.com"><img src="https://img.shields.io/badge/Email-Me%20Personally-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/vijay-e"><img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/vj-e/"><img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://vj-e.github.io/Portfolio-Website/"><img src="https://img.shields.io/badge/Portfolio-See%20My%20Work-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://codolio.com/profile/Vijay"><img src="https://img.shields.io/badge/Codolio-View%20My%20Profile-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
@@ -255,5 +286,5 @@ I'm always excited to discuss new ideas, collaborate on interesting projects, or
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=120&section=footer&fontColor=ffffff" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&fontColor=ffffff" alt="Footer Banner" />
 </p>
