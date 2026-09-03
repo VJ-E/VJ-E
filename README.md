@@ -266,6 +266,17 @@ Feel free to connect with me on any of the platforms below!
 
 <br><br>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/26uf8RJwTjQ7T0h7O/giphy.gif" width="35">&nbsp;<b><i>Contribution Snake</i></b>
+  <br><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VJ-E/VJ-E/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VJ-E/VJ-E/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/VJ-E/VJ-E/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br><br>
 ---
 
 ### Let's Connect & Collaborate
